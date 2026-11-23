@@ -17,7 +17,7 @@ Además de los 14 requisitos del enunciado, el equipo agregó el **requisito 15:
 
 ## Video explicativo
 
-* **Enlace público al video (10 a 15 minutos, sin requerir inicio de sesión):** [Ver video explicativo](PEGAR_AQUI_EL_ENLACE_PUBLICO_DEL_VIDEO)
+* **Enlace público al video (10 a 15 minutos, sin requerir inicio de sesión):** [Ver video explicativo](https://youtu.be/aqA7pVJ1lMY?si=3x4Dr0RaxAvUvFWP)
 
 ## Cómo ejecutar
 
