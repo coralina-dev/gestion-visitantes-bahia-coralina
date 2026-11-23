@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+~$*
+
+# Material de estudio: no es parte de la entrega.
+estudio/
+
+# Exportaciones de la conversación con la IA: pueden tener datos personales.
+# Revísenlas antes de quitar esta línea (ver evidencias_ia/LEEME.md).
+evidencias_ia/*.zip
